@@ -1,0 +1,10 @@
+[
+    {
+        "total_raw_bytes_power":"79164837199872",
+        "total_qa_bytes_power":"791648371998720",
+        "qa_smoothed_position_estimate":"298993734887976652305601780074155353347147573464474453",
+        "qa_smoothed_velocity_estimate":"1402952968685483645625900452085279749528913282439235",
+        "total_pledge_collateral":"23199595425986463118763",
+        "height":"17"
+    }
+]
